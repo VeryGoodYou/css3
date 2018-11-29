@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9949f8c-74b8-4d0d-83d0-d00b9c8e8c35" name="默认更改列表" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1183231033">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="214" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="214" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1123943348">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.30" value="3" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="6" />
+          <entry key="htc" value="1" />
+          <entry key="html" value="13" />
+          <entry key="js" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="6" />
+          <entry key="HTML" value="13" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="7238" />
+          <entry key="html" value="1416" />
+          <entry key="js" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="7238" />
+          <entry key="HTML" value="1416" />
+          <entry key="JavaScript" value="20" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css3唯美动画/唯美满天星.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css3唯美动画/旋转地球样品.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css3唯美动画/刷新特效.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css3唯美动画/日全食.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css3唯美动画/图片放大.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css3唯美动画/超酷input.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css3唯美动画/心电图.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css3唯美动画/光剑.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css3唯美动画/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-16464">
+              <caret line="124" column="1" lean-forward="true" selection-start-line="124" selection-start-column="1" selection-end-line="124" selection-end-column="1" />
+              <folding>
+                <element signature="e#1379#1542#0" />
+                <element signature="e#1543#1701#0" />
+                <element signature="e#1702#1862#0" />
+                <element signature="e#1863#1981#0" />
+                <element signature="e#1983#2101#0" />
+                <element signature="e#2102#2228#0" />
+                <element signature="e#2229#2352#0" />
+                <element signature="e#2353#2475#0" />
+                <element signature="e#3151#3267#0" />
+                <element signature="e#3268#3387#0" />
+                <element signature="e#3388#3508#0" />
+                <element signature="e#3509#3630#0" />
+                <element signature="e#3631#3755#0" />
+                <element signature="e#3756#3873#0" />
+                <element signature="e#3874#3996#0" />
+                <element signature="e#3997#4118#0" />
+                <element signature="e#4119#4239#0" />
+                <element signature="e#4791#4911#0" />
+                <element signature="e#4912#5040#0" />
+                <element signature="e#5041#5164#0" />
+                <element signature="e#5165#5289#0" />
+                <element signature="e#5290#5415#0" />
+                <element signature="e#5417#5539#0" />
+                <element signature="e#5540#5667#0" />
+                <element signature="e#5668#5794#0" />
+                <element signature="e#5795#5920#0" />
+                <element signature="e#5921#6051#0" />
+                <element signature="e#23840#24275#0" />
+                <element signature="e#24276#24714#0" />
+                <element signature="e#24715#25155#0" />
+                <element signature="e#25156#25595#0" />
+                <element signature="e#25596#26039#0" />
+                <element signature="e#26042#26480#0" />
+                <element signature="e#26481#26928#0" />
+                <element signature="e#26929#27372#0" />
+                <element signature="e#27373#27817#0" />
+                <element signature="e#27818#28260#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>transition</find>
+      <find>nei</find>
+      <find>日全食</find>
+      <find>border-radius</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css3唯美动画/js/style.js" />
+        <option value="$PROJECT_DIR$/css3唯美动画/唯美满天星.html" />
+        <option value="$PROJECT_DIR$/css3唯美动画/index.html" />
+        <option value="$PROJECT_DIR$/css3唯美动画/旋转地球样品.html" />
+        <option value="$PROJECT_DIR$/css3唯美动画/摇晃相框.html" />
+        <option value="$PROJECT_DIR$/css3唯美动画/日全食.html" />
+        <option value="$PROJECT_DIR$/css3唯美动画/刷新特效.html" />
+        <option value="$PROJECT_DIR$/css3唯美动画/图片放大.html" />
+        <option value="$PROJECT_DIR$/css3唯美动画/超酷input.html" />
+        <option value="$PROJECT_DIR$/css3唯美动画/心电图.html" />
+        <option value="$PROJECT_DIR$/../商务网/css/style.css" />
+        <option value="$PROJECT_DIR$/../商务网/index.html" />
+        <option value="$PROJECT_DIR$/css3唯美动画/css/style.css" />
+        <option value="$PROJECT_DIR$/css3唯美动画/光剑.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="css3动画" type="b2602c69:ProjectViewProjectNode" />
+              <item name="css3动画" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="css3动画" type="b2602c69:ProjectViewProjectNode" />
+              <item name="css3动画" type="462c0819:PsiDirectoryNode" />
+              <item name="css3唯美动画" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="css3动画" type="b2602c69:ProjectViewProjectNode" />
+              <item name="css3动画" type="462c0819:PsiDirectoryNode" />
+              <item name="css3唯美动画" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../唯美动画" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.唯美满天星.html">
+    <configuration name="日全食.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8090/css3动画/css3唯美动画/日全食.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="唯美满天星.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8090/css3动画/css3唯美动画/唯美满天星.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="图片放大.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8090/css3动画/css3唯美动画/图片放大.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="刷新特效.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8090/css3动画/css3唯美动画/刷新特效.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="旋转地球样品.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8090/css3动画/css3唯美动画/旋转地球样品.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="日全食.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8090/css3动画/css3唯美动画/日全食.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="心电图.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8090/css3动画/css3唯美动画/心电图.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="光剑.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8090/css3动画/css3唯美动画/光剑.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="图片放大.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8090/css3动画/css3唯美动画/图片放大.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="旋转地球样品.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8090/css3动画/css3唯美动画/旋转地球样品.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="心电图.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8090/css3动画/css3唯美动画/心电图.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="摇晃相框.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8090/css3动画/css3唯美动画/摇晃相框.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="刷新特效.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8090/css3动画/css3唯美动画/刷新特效.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="旋转地球样品.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8090/css3动画/css3唯美动画/旋转地球样品.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="超酷input.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8090/css3动画/css3唯美动画/超酷input.html">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.日全食.html" />
+      <item itemvalue="JavaScript Debug.超酷input.html" />
+      <item itemvalue="JavaScript Debug.唯美满天星.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.唯美满天星.html" />
+        <item itemvalue="JavaScript Debug.超酷input.html" />
+        <item itemvalue="JavaScript Debug.日全食.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9949f8c-74b8-4d0d-83d0-d00b9c8e8c35" name="默认更改列表" comment="" />
+      <created>1542931993768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542931993768</updated>
+      <workItem from="1542931996172" duration="2576000" />
+      <workItem from="1542951176129" duration="1266000" />
+      <workItem from="1542952454217" duration="3210000" />
+      <workItem from="1543133217761" duration="1503000" />
+      <workItem from="1543135425367" duration="340000" />
+      <workItem from="1543135803785" duration="15000" />
+      <workItem from="1543135844650" duration="6256000" />
+      <workItem from="1543189457046" duration="22284000" />
+      <workItem from="1543275812220" duration="27074000" />
+      <workItem from="1543363939107" duration="4702000" />
+      <workItem from="1543370688010" duration="15148000" />
+      <workItem from="1543445147276" duration="2588000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="86962000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14524421" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/css3唯美动画/js/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3唯美动画/index.html" />
+    <entry file="file://$PROJECT_DIR$/css3唯美动画/摇晃相框.html" />
+    <entry file="file://$PROJECT_DIR$/../作业/前端作业 应路直/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/css3唯美动画/css/PIE_uncompressed.htc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4332" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../商务网/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../商务网/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3唯美动画/旋转地球样品.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3唯美动画/刷新特效.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3唯美动画/日全食.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3唯美动画/图片放大.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3唯美动画/超酷input.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3唯美动画/心电图.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3唯美动画/光剑.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3唯美动画/唯美满天星.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3唯美动画/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16464">
+          <caret line="124" column="1" lean-forward="true" selection-start-line="124" selection-start-column="1" selection-end-line="124" selection-end-column="1" />
+          <folding>
+            <element signature="e#1379#1542#0" />
+            <element signature="e#1543#1701#0" />
+            <element signature="e#1702#1862#0" />
+            <element signature="e#1863#1981#0" />
+            <element signature="e#1983#2101#0" />
+            <element signature="e#2102#2228#0" />
+            <element signature="e#2229#2352#0" />
+            <element signature="e#2353#2475#0" />
+            <element signature="e#3151#3267#0" />
+            <element signature="e#3268#3387#0" />
+            <element signature="e#3388#3508#0" />
+            <element signature="e#3509#3630#0" />
+            <element signature="e#3631#3755#0" />
+            <element signature="e#3756#3873#0" />
+            <element signature="e#3874#3996#0" />
+            <element signature="e#3997#4118#0" />
+            <element signature="e#4119#4239#0" />
+            <element signature="e#4791#4911#0" />
+            <element signature="e#4912#5040#0" />
+            <element signature="e#5041#5164#0" />
+            <element signature="e#5165#5289#0" />
+            <element signature="e#5290#5415#0" />
+            <element signature="e#5417#5539#0" />
+            <element signature="e#5540#5667#0" />
+            <element signature="e#5668#5794#0" />
+            <element signature="e#5795#5920#0" />
+            <element signature="e#5921#6051#0" />
+            <element signature="e#23840#24275#0" />
+            <element signature="e#24276#24714#0" />
+            <element signature="e#24715#25155#0" />
+            <element signature="e#25156#25595#0" />
+            <element signature="e#25596#26039#0" />
+            <element signature="e#26042#26480#0" />
+            <element signature="e#26481#26928#0" />
+            <element signature="e#26929#27372#0" />
+            <element signature="e#27373#27817#0" />
+            <element signature="e#27818#28260#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
