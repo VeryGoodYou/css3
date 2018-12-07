@@ -2,9 +2,235 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>导航条</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
+<style>
+    /*.centerr{
+        background: #cccccc;
+        width: 100px;
+        text-align: center;
+        padding: 15px;
+        height: 100px;
+    }
+    .sss>li{
+        visibility: hidden;
+        opacity: 0;
+        width: 180px;
+        height: 0;
+        list-style: none;
+        text-align: center;
+        background: red;
+        transition: all 1s;
+    }
+    .centerr:hover .sss>li{
+        visibility: visible;
+        opacity: 1;
+        height: 50px;
+        transition: all 1s;
+    }
+    .left{
+        width: 200px;
+        height: 30px;
+        background: #dddddd;
+        text-align: center;
+    }
+
+    .left-2>li{
+        opacity: 0;
+        width: 100px;
+        height: 0;
+        background: red;
+        list-style: none;
+        position: absolute;
+        left: -300px;
+        transition: all 1s;
+    }
+    .left:hover .left-2>li{
+        opacity: 1;
+        height: 50px;
+        transition: 1s;
+        left: 0;
+    }
+    .firsf{
+        width: 100%;
+        background: #4b0003;
+    }
+    .firsf>li{
+        float: left;
+        list-style: none;
+        width: 10%;
+        text-align: center;
+    }
+    .second>li{
+        width: 100%;
+        opacity: 0;
+        transition: all 1s;
+        height: 0;
+        background: red;
+        list-style: none;
+    }
+    .ddd:hover .second>li{
+        opacity: 1;
+        height: 37px;
+        transition: all 1s;
+    }*/
+
+    *{
+        list-style: none;
+    }
+    .centainer>ul>li>a{
+        text-decoration: none;
+        color: #fff;
+        font-weight: bold;
+        display: block;
+    }
+    .centainer{
+        width: 285px;
+        height: 500px;
+        margin: 0 auto;
+        background: #000;
+        overflow: hidden;
+        position: relative;
+    }
+    .cover{
+        width: 100%;
+        height: 100%;
+        background: red;
+        transition: all 0.25s;
+        position: relative;
+        z-index: 99;
+    }
+    .cover>label{
+        padding: 10px;
+        border: 2px solid #fff;
+        top: 200px;
+        cursor: pointer;
+    }
+    .centainer>ul{
+        position: absolute;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        width: 150px;
+        background: #2f3238;
+        padding-top: 50px;
+    }
+    .centainer>ul>li{
+        line-height: 48px;
+    }
+    .centainer>b{
+        display: block;
+        opacity: 0;
+        transform: translateX(150px);
+        transition: all 0.4s;
+    }
+    input:checked+.centainer.cover{
+        transform: translateX(150px);
+    }
+    input:checked+.centainer b{
+        transform: translateX(0);
+        opacity: 1;
+    }
+</style>
 <body>
-$END$
+<!--
+
+<div class="centerr">
+    <div class="span">下拉菜单</div>
+    <ul class="sss">
+        <li><a href="#">dwadw</a></li>
+        <li><a href="#">dwadw</a></li>
+        <li><a href="#">dwadw</a></li>
+    </ul>
+</div>
+<div class="left">
+    <div class="left-1">达瓦达瓦</div>
+    <ul class="left-2">
+        <li><a href="#">dawd</a></li>
+        <li><a href="#">dawd</a></li>
+        <li><a href="#">dawd</a></li>
+    </ul>
+</div>
+
+<ul class="firsf">
+    <li><a href="#">健身房和</a></li>
+    <li><a href="#">健身房和</a></li>
+    <li class="ddd"><a href="#">健身房和</a>
+        <ul class="second">
+            <li>dawd</li>
+            <li>dawda</li>
+            <li>dawdaw</li>
+        </ul>
+    </li>
+</ul>
+-->
+
+<nav>
+    <ul class="to">
+        <li class="to-1"><a href="#">下拉菜单</a>
+            <ul class="ao-1">
+                <li><a href="#">查看更多</a></li>
+                <li><a href="#">查看更多</a></li>
+                <li><a href="#">查看更多</a></li>
+                <li><a href="#">查看更多</a></li>
+            </ul>
+        </li>
+        <li class="to-2"><a href="#">下拉菜单</a>
+            <ul class="ao-2">
+                <li><a href="#">查看更多2</a></li>
+                <li><a href="#">查看更多2</a></li>
+                <li><a href="#">查看更多2</a></li>
+                <li><a href="#">查看更多2</a></li>
+            </ul>
+        </li>
+        <li class="to-3"><a href="#">下拉菜单</a>
+            <ul class="ao-3">
+                <li><a href="#">查看更多3</a></li>
+                <li><a href="#">查看更多3</a></li>
+                <li><a href="#">查看更多3</a></li>
+                <li><a href="#">查看更多3</a></li>
+            </ul>
+        </li>
+        <li class="to-4"><a href="#">下拉菜单</a>
+            <ul class="ao-4">
+                <li><a href="#">查看更多4</a></li>
+                <li><a href="#">查看更多4</a></li>
+                <li><a href="#">查看更多4</a></li>
+                <li><a href="#">查看更多4</a></li>
+            </ul>
+        </li>
+        <li class="to-5"><a href="#">下拉菜单</a>
+            <ul class="ao-5">
+                <li><a href="#">查看更多5</a></li>
+                <li><a href="#">查看更多5</a></li>
+                <li><a href="#">查看更多5</a></li>
+                <li><a href="#">查看更多5</a></li>
+            </ul>
+        </li>
+        <li class="to-6"><a href="#">下拉菜单</a>
+            <ul class="ao-6">
+                <li><a href="#">查看更多6</a></li>
+                <li><a href="#">查看更多6</a></li>
+                <li><a href="#">查看更多6</a></li>
+                <li><a href="#">查看更多6</a></li>
+            </ul>
+        </li>
+    </ul>
+</nav>
+
+<input type="checkbox" style="display: none" id="selected">
+<div class="centainer">
+    <div class="cover"><label for="selected">click me</label></div>
+    <ul>
+        <li><a href="#"><i class="fa fa-1"></i><b>tasks</b></a></li>
+        <li><a href="#"><i class="fa fa-2"></i><b>tasks</b></a></li>
+        <li><a href="#"><i class="fa fa-3"></i><b>tasks</b></a></li>
+        <li><a href="#"><i class="fa fa-4"></i><b>tasks</b></a></li>
+        <li><a href="#"><i class="fa fa-5"></i><b>tasks</b></a></li>
+        <li><a href="#"><i class="fa fa-6"></i><b>tasks</b></a></li>
+        <li><a href="#"><i class="fa fa-7"></i><b>tasks</b></a></li>
+    </ul>
+</div>
 </body>
 </html>
