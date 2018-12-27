@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>鼠标悬停切换</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/style.js"></script>
+</head>
+<body>
+<div id="qie">
+    <img src="img/preview.jpg" alt="" id="qie-1">
+    <ul id="list">
+        <li><a href="#"><img src="img/preview-1.jpg" alt=""></a></li>
+        <li><a href="#"><img src="img/preview.jpg" alt=""></a></li>
+        <li><a href="#"><img src="img/preview-1.jpg" alt=""></a></li>
+        <li><a href="#"><img src="img/preview.jpg" alt=""></a></li>
+        <li><a href="#"><img src="img/preview-1.jpg" alt=""></a></li>
+        <li><a href="#"><img src="img/preview.jpg" alt=""></a></li>
+    </ul>
+</div>
+
+
+<script>
+    /*鼠标触发*/
+    var img = document.getElementById('list').getElementsByTagName('img');
+    var qie = document.getElementById('qie-1');
+    for (var i = 0; i < img.length; i++) {
+        img[i].onmouseover = function () {
+            qie.src = this.src;
+        };
+        img[i].onmouseout = function () {
+        }
+    }
+</script>
+</body>
+</html>

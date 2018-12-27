@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    #list li{
+        float: left;
+        margin: 10px;
+    }
+    #list li a img{
+        width: 50px;
+        overflow: hidden;
+    }
+    #showImg{
+        width: 50%;
+        height: 100%;
+        overflow: hidden;
+    }
+    #list-2 li img{
+        width: 100px;
+    }
+    .cssd{
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        right: 0;
+    }
+    /*.cssd li {
+        width: 150px;
+        background: gray;
+        text-align: center;
+        margin-bottom: 3px;
+        padding: 10px 0;
+        white-space: nowrap;
+        overflow: hidden;
+        transition: all 2s;
+    }
+    .cssd li img{
+        width: 100px;
+        float: left;
+        padding: 0 22px;
+    }
+    .cssd li:hover{
+        background: red;
+        width: 270px;
+    }*/
+    .cssd-1,.cssd-2{
+        background: gray;
+        padding: 16px;
+        transition: all 2s;
+    }
+    .cssd-1>a,.cssd-2>a{
+        display: block;
+        width: 100px;
+        height: 100px;
+        overflow: hidden;
+        transition: all 2s;
+    }
+    .cssd-1>a>.a,.cssd-2>a>.a{
+        background: url("img/fade.jpg")no-repeat center center;
+        background-size: 100% 100%;
+        width: 100px;
+        height: 100px;
+        display: block;
+        float: left;
+    }
+    .cssd-1>a>span{
+        float: left;
+        line-height: 95px;
+    }
+    .cssd-1:hover{
+        background: red;
+    }
+    .cssd-1>a:hover{
+        width: 200px;
+    }
+    /*.das{
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        filter:url(#water);
+        object-fit: cover;
+    }*/
+    /*.mas{
+        width: 100%;
+        height: 700px;
+        background: url("img/preview.jpg");
+        background-attachment: fixed;
+    }*/
+    .da-1{
+        width: 300px;
+    }
+    .da-1 a{
+        text-decoration: none;
+
+    }
+    .da-1 a:hover{
+        box-shadow: 10px 10px 10px 10px;
+    }
+</style>
+<body>
+<div class="da-1">
+    <a href="#">dawdw</a>
+</div>
+<!--<svg width="0" height="0"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <filter id="water">
+        <feTurbulence type="fractalNoise" baseFrequency=".05 .05" numOctaves="1" result="noise1"></feTurbulence>
+        <feColorMatrix in="noise1" type="hueRotate" values="0" result="noise2">
+            <animate attributeName="values" from="0" to="360" dur="1s" repeatCount="indefinite"/>
+        </feColorMatrix>
+        <feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="7" in="SourceGraphic" in2="noise2" />
+    </filter>
+</svg>
+<img src="img/preview.jpg" alt="" class="das">-->
+<!--<div class="mas">
+
+</div>-->
+<!--<form action="">
+    <input type="text" id="inp" value="666">
+    <button onclick="how()" id="btn">点击</button>
+</form>
+<form action="">
+    <input type="text" id="input-1" value="">
+    <input type="text" id="input-2" value="">
+    <button onclick="dd()">点的</button>
+</form>-->
+<div id="ff"></div>
+
+<div>
+    <ul class="cssd">
+        <li class="cssd-1">
+            <a href="#">
+                <b class="a"></b>
+                <span>123456</span>
+            </a>
+        </li>
+        <li class="cssd-2">
+            <a href="#">
+                <b class="a"></b>
+                <span>123456</span>
+            </a>
+        </li>
+        <li></li>
+        <li></li>
+        <!--<li class="csd">
+            <a href="#"><img src="img/fade.jpg" alt=""></a>
+        </li>
+        <li><a href="#"><img src="img/fade.jpg" alt=""></a></li>
+        <li><a href="#"><img src="img/fade.jpg" alt=""></a></li>
+        <li><a href="#"><img src="img/fade.jpg" alt=""></a></li>-->
+    </ul>
+</div>
+
+<script type="text/javascript">
+
+
+
+    var ff = document.getElementById('ff');
+    function how() {
+        var a = document.getElementById('inp').value;
+        alert(a);
+    }
+    function dd() {
+        var b = document.getElementById('input-1').value;
+        var d = document.getElementById('input-2').value;
+        /*var message = 'b'*/
+        var cc = '我今年'+b+d+'岁了！';
+        alert(cc);
+    }
+
+
+    /*var arr = ['小明','小红','大军','阿黄'];
+    console.log('欢迎'+arr[0]+','+arr[1]+','+arr[2]+'同学！');*/
+
+    var xiaoming = {
+        name:'小明',
+        birth:1990,
+        school:'No,1 Middle School',
+        height:1.70,
+        weight:65,
+        crore:null
+    };
+    console.log(xiaoming.name);
+
+    /*var height = parseFloat(prompt('请输入身高(m):'));
+    var weight = parseFloat(prompt('请输入体重(kg)'));
+
+    var bmi = weight/(height*height);
+    console.log('BMI的值是:',bmi);
+    if (bmi >= 18.5) {
+        console.log('过轻');
+    }else if (bmi >= 18.5 && bmi >= 25) {
+        console.log('正常');
+    }else if (bmi >= 25 && bmi >= 28) {
+        console.log('过重');
+    }else if (bmi >= 28 && bmi >= 32) {
+        console.log('肥胖');
+    }else if (bmi >= 32) {
+        console.log('严重肥胖');
+    }
+*/
+   /*var cheng = 1;
+    var i;
+    for (i = 1; i <= 10; i++) {
+        cheng = cheng * i;
+    }
+    console.log(cheng);*/
+
+
+   /*var x = 0;
+   var n = 99;
+   while (n>0){
+       x = x + n;
+       n = n - 2;
+   }
+   console.log(x);
+
+    ff.innerText = x;*/
+
+   /*var arr = ['谢家乐','首饰','xiex'];
+   for (i = 0; i < arr.length; i++) {
+       var cc = console.log('Hello,'+arr[i]);
+   }*/
+
+   /*var a = ['A','B','C'];
+   var s = new Set(['A','B','C']);
+   var m = new Map([[1,'x'],[2,'y'],[3,'z']]);
+   for (var x of a) {
+       ff.innerText = x;
+   }
+   for (var x of s) {
+       ff.innerText = y;
+   }
+   for (var x of m) {
+       ff.innerText = console.log(x[0] + '=' + x[1]);
+   }*/
+
+   /*var arr = ['1','2','3'];
+   for (i = 0; i < arr.length; i++) {
+       var cc = console.log('Hello,'+arr[i]);
+   }*/
+
+   /*var x = 1;
+   var i;
+   for (i = 1; i <= 100; i++) {
+       x = i + x + 1;
+       console.log(x);
+   }*/
+
+   /*function abs(x) {
+       if (x >= 0) {
+           return x;
+       }else{
+           return x;
+       }
+   }
+    */
+
+    /*var {hostname:domain, pathname:path} = location;*/
+
+    console.log('window inner size:'+window.innerWidth+'x'+window.innerHeight);
+    console.log(navigator.platform);
+    var width = window.innerWidth || window.innerHeight;
+    ff.innerText = width;
+    console.log(screen.width,screen.height);
+
+
+    /*for (var i = 1; i <= 7; i++) {
+        for (var c = 1; c <= 8; c++) {
+            document.write('●');
+        }
+        document.write('<br/>')
+    }*/
+    for (var i = 1; i <= 8; i++) {
+        for (var c = 1; c <= 8-i; c++) {
+            document.write('●')
+        }
+        document.write('<br/>');
+    }
+</script>
+</body>
+</html>

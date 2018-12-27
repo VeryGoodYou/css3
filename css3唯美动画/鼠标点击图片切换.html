@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>鼠标点击图片切换</title>
+</head>
+<style>
+    #men{
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+    }
+    #men-1{
+        width: 100%;
+        position: relative;
+    }
+    #list-1{
+        position: absolute;
+        bottom: 0;
+    }
+    #list-1>li{
+        list-style: none;
+        float: left;
+        width: 10%;
+        margin: 0 1%;
+        position: relative;
+        left: 21%;
+    }
+    #list-1>li>a>img{
+        width: 100%;
+        height: 93px;
+    }
+</style>
+<body>
+<div id="men">
+    <img src="img/preview.jpg" alt="" id="men-1">
+    <ul id="list-1">
+        <li><a href="#"><img src="img/preview-1.jpg" alt=""></a></li>
+        <li><a href="#"><img src="img/fade.jpg" alt=""></a></li>
+        <li><a href="#"><img src="img/preview-1.jpg" alt=""></a></li>
+        <li><a href="#"><img src="img/fade.jpg" alt=""></a></li>
+    </ul>
+</div>
+<script>
+    /*鼠标点击*/
+    var men = document.getElementById('men-1');
+    var cc = document.getElementById('list-1').getElementsByTagName('img');
+    for (var i = 0; i < cc.length; i++) {
+        cc[i].onclick = function () {
+            men.src = this.src;
+        };
+        cc[i].onmouseout = function () {
+        }
+    }
+</script>
+</body>
+</html>
